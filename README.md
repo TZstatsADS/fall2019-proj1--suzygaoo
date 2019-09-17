@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Song Lyrics Data Story
++ This project is conducted by Suzy Gao
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: We all love music and singers, and we may have our favorite playlist that we listen to every day. With the continuous development of technology, we have the opportunity to explore different types of music more and easier. Some of us like Pop music, some like country music, and some enjoy EDM more. Music is everywhere and has become an indispensable part of our life. People love different songs due to different reasons. We can fall in love with a song because of its melody, or sometimes we feel like the lyrics resonate with us so well. It's very interesting to study people's music preferences and the reason behind. Let's take a look at the secret of songs -- the lyrics! And find out the patterns of different types of song lyrics!
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
