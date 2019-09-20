@@ -2,7 +2,7 @@
 ## Fall 2019
 ## Project 1: A "data story" on the songs of our times
 
-<img src="figs/title1.jpeg" width="500">
+<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi94qOM89_kAhVhTd8KHa7MAn0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.tes.com%2Flessons%2Fuq63M5QZv7lxXQ%2Fmood-in-music-plus-art-for-grade-3&psig=AOvVaw1rAKeRtaKH8tZfklauOama&ust=1569086018876922" width="500">
 
 ### [Project Description](doc/)
 
